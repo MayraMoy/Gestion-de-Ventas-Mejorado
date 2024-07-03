@@ -1,3 +1,3 @@
 # Gestion-de-Ventas-Mejorado
 
-Mayra Moyano
+  Integrantes: Mayra Moyano, Luciana Moreno
